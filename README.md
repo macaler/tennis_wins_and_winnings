@@ -1,0 +1,5 @@
+# tennis_wins_and_winnings
+
+This Codecademy challenge project was designed to give practice in building multiple-variable linear regression models. Codecademy provided me with a table of data from the men's professional tennis league and challenged me to predict outcomes for tennis players. The outcomes I chose to focus on were number of wins and yearly winnings. After exploring the data, a few multiple-variable linear regression models were constructed, and I go into some detail about which was the best model I constructed and why I believe it to be the best model.
+
+I completed this project using Python 3.8 and Jupyter Notebook; the packages I called include Pandas, Matplotlib, scikit-learn. Since I don't know how Codecademy got the data they provided for the project, I am not comfortable including it in this repository; however, I can include my Jupyter Notebook, as I've come to realize that it shows the output of a cell from the last time the cell was run. In this way you can see my solution to the project, the code I wrote, and what it outputs.
